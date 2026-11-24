@@ -1,0 +1,6 @@
+@AccountSync_HostAddress = http://localhost:5205
+
+GET {{AccountSync_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
